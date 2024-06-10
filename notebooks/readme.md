@@ -5,9 +5,11 @@
 
 ## Overview
 
-####What if healthcare companies can help their customers by providing them access to summarized visit notes, prescriptions, alerts, doctor information. All this exists today. What is new? 
+What if healthcare companies can help their customers by providing them access to summarized visit notes, prescriptions, alerts, doctor information. All this exists today then what is new? 
 
-####ENGLISH IS THE NEW CODING LANGUAGE - Take advantage and create conversational methods to answer simple questions. Keep the customers aware of the prescription they need to take. Alert them on their appointments. Answer their questions related to their vistist.
+An app that listens to the questions of the healthcare customers and answers them based on the encounters, medications and provider information. 
+
+ENGLISH IS THE NEW CODING LANGUAGE - Take advantage and create conversational methods to answer simple questions. Keep the customers aware of the prescription they need to take. Alert them on their appointments. Answer their questions related to their visits
 
 
 What is my current prescription? 
