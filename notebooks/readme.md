@@ -1,4 +1,5 @@
 # HEALA - A Smart Personal Assistant For Your Health Visits
+![alt text](https://github.com/sailtovictory/heala/blob/main/UI/PHOTO-2024-06-10-15-01-52.jpg)
 
 """
 # Project Documentation
