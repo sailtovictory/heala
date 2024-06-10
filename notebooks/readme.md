@@ -9,7 +9,7 @@ What if healthcare companies can help their customers by providing them access t
 
 An app that listens to the questions of the healthcare customers and answers them based on the encounters, medications and provider information. 
 
-ENGLISH IS THE NEW CODING LANGUAGE - Take advantage and create conversational methods to answer simple questions. Keep the customers aware of the prescription they need to take. Alert them on their appointments. Answer their questions related to their visits
+ENGLISH IS THE NEW CODING LANGUAGE - Take advantage and create conversational methods to answer simple questions. Keep the customers aware of the prescription they need to take. Alert them on their appointments. Answer their questions related to their visits especailly for the people who needs assistance.
 
 
 What is my current prescription? 
@@ -18,7 +18,7 @@ What is the name of my doctor I visited six months ago?
 
 Did I take my medication this morning?
 
-This project aims to be your personal assistant to answer your queries related to your recent health visits. The idea is to allow healthcare companies manage the health and lives of their patients by creating a simple app and sharing with their customers. This app will summarize their recent visits, any active prescriptions, alert for medication to be taken.
+These are easy questions but are they easy questions to people who needs assistance? This project aims to be your personal assistant to answer your queries related to your recent health visits. The idea is to allow healthcare companies manage the health and lives of their patients by creating a simple app and sharing with their customers. This app will summarize their recent visits, any active prescriptions, alert for medication to be taken.
 
 
 ## Components
