@@ -34,7 +34,3 @@ https://synthea.mitre.org/downloads
 1. Call `generate_response(patient_id, question)` to get a text response.
 2. Pass the text response to `text_to_audio(text)` to get an audio representation.
 3. Use `display(audio_output)` to play the audio within the notebook.
-
-## Note
-This documentation is a basic template. You should expand it with more detailed information about your project, including setup instructions, usage examples, and any other relevant details.
-"""
